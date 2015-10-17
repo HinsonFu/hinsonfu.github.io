@@ -1,10 +1,10 @@
 # Site settings
-title: 付小森的森林
+title: 读立写生
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: “在地平线升起的地方”  
+description: "陈素封|读而立·写而生"  
 baseurl: ""
-url: "http://hinson.love”  
+url: "http://cnfeat"  
 
 # About/contact
 owner: 
