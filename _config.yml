@@ -2,15 +2,15 @@
 title: 付小森的森林
 header-img: "img/facebook.jpg"
 tagline: "cn"  
-description: “付小森|A nice gift”  
+description: "陈素封|读而立·写而生"  
 baseurl: ""
-url: "http://hinson”  
+url: "http://cnfeat"  
 
 # About/contact
 owner: 
-  name: " Mason”
-  email: fu.tomorrow@gmail.com
-  bio: “daydream nation”
+  name: " CnFeat"
+  email: CnFeat@gmail.com
+  bio: "写就是写的报酬"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
@@ -44,16 +44,16 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: “Mason”
+      author: "CnFeat"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : Mason
+    short_name : cnfeat
   disqus :
-      short_name : Mason
+      short_name : cnfeat
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
