@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 如何才能做有价值的事情？
+title: 如何才能做有值的事情？
 date: 2015-09-05
 categories: blog
 tags: [思考,麦肯锡]
-description: 可能你也有过以上的困惑，可能你觉得你必须做一大堆的事情才能把自己从泥潭中扯出来，但事实并非如此，你只需做一小部分有价值的事情就可以改变现状。
+description: 
 ---
 
 
