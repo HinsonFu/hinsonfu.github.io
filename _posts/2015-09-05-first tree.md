@@ -3,7 +3,7 @@ layout: post
 title: 第一棵树
 date: 2015-09-05
 categories: blog
-tags: [树]
+tags: 
 description: 
 ---
 
@@ -20,7 +20,7 @@ description:
 带着这些疑惑去寻找属于你的答案  
 
 请原谅我们主动将你带到这个世界  
-这里有星空、海洋、森林和城市
+这里有星空、海洋、森林和城市  
 这里有家人、朋友和爱你的人  
 这里也有着很多不完美 甚至险恶  
 
