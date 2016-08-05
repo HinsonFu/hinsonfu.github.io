@@ -5,7 +5,6 @@ description: "茂密"
 header-img: "img/semantic.jpg"  
 ---
 
-##树的种类
 
 <div id='tag_cloud'>
 {% for tag in site.tags %}
