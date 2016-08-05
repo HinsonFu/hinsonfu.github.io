@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Tags"
-description: "森林里的树的种类"  
+description: "茂密"  
 header-img: "img/semantic.jpg"  
 ---
 
