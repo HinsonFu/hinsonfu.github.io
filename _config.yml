@@ -16,12 +16,12 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  itomorrow
-twitter_username: itomorrow
-github_username: itomorrow
-facebook_username: itomorrow
-weibo_username: rider_on_the_wheel 
-zhihu_username: itomorrow
+# douban_username:  itomorrow
+# twitter_username: itomorrow
+# github_username: itomorrow
+# facebook_username: itomorrow
+# weibo_username: rider_on_the_wheel 
+# zhihu_username: itomorrow
 
 # Build settings  
 # use Github Flavored Markdown !important  
